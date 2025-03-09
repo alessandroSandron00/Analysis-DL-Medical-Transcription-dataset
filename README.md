@@ -1,6 +1,6 @@
 # Analysis-DL-Medical-Transcription-dataset
 
-This is a revisitation of the original design obtained from Kaggle, trying to optimize as much as possible the analysis (https://www.kaggle.com/code/ritheshsreenivasan/clinical-text-classification/notebook). 
+This is a revisitation of the original project analysis obtained from Kaggle, trying to optimize as much as possible the analysis (https://www.kaggle.com/code/ritheshsreenivasan/clinical-text-classification/notebook). 
 
 **Description of the Original Project:**
 
