@@ -22,3 +22,10 @@ To achieve the objectives of the enhanced project, a meticulous examination of t
 
 Results highlight the significance of category reduction for improved classification performance. Even the original model shows enhanced performance with implemented modifications. Both methods demonstrated high classification accuracy (tfIdf=0.78, W2V=0.79), further boosted by incorporating SMOTE to address class imbalance, especially benefiting minority classes. Notably, PCA had minimal impact on performance improvement. Both models faced consistent classification challenges, attributed to dataset issues rather than inherent model limitations.
 
+
+Authors:
+- alessandro.sandron.1@studenti.unipd.it
+- alesia.memushaj@studenti.unipd.it
+- nicola.cocca@studenti.unipd.it
+- alessia.rossi.3@studenti.unipd.it
+- valeria.boschetti@studenti.unipd.it
