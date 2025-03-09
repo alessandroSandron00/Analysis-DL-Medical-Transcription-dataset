@@ -24,8 +24,8 @@ Results highlight the significance of category reduction for improved classifica
 
 
 Authors:
-- alessandro.sandron.1@studenti.unipd.it
-- alesia.memushaj@studenti.unipd.it
-- nicola.cocca@studenti.unipd.it
-- alessia.rossi.3@studenti.unipd.it
-- valeria.boschetti@studenti.unipd.it
+- alessandro.sandron
+- alesia.m@
+- nicola.c@
+- alessia.r@
+- valeria.b@
